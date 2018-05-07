@@ -1,5 +1,9 @@
 # New Document
-Thank you for taking the time to try out easyPDF Cloud.  This tutorial is here to guide you through deploying and using the easyPDF Cloud .Net Sample.
+Generate and convert files to PDF online with easy PDF Cloud
+
+The easyPDF Cloud (www.easypdfcloud.com) is a cloud-based platform that allows PDF generation, conversion and automation. This easy-to-use tool eliminates the need for separate APIs for different file formats and works with Word, Excel, PowerPoint, HTML, and images. The easyPDF Cloud API can be called from any language such as .NET, Java and PHP deployed on multiple platforms like Windows, Mac OS, Linux, iOS and Android.
+
+This tutorial is here to guide you through deploying and using the easyPDF Cloud .Net Sample.
 The first step is to simply choose a location on your machine, and extract the sample to that location.  Once the sample is extracted, you should have a folder that looks like this.
  
  
@@ -7,7 +11,7 @@ The first step is to simply choose a location on your machine, and extract the s
 Running the Sample Application:
 We’ll start with the Pre-Compiled Application, so Open the “Sample” folder to find the files shown below;
  
-These files are the bare minimum you need in order to use easyPDF Cloud, and seeing easyPDF Cloud in action is as simple as double clicking “EasyPdfCloudSample.exe”.  If you do so, a Console should pop up and quickly run through the steps of a standard conversion.  By default, the application will target the “in.docx” file in the same folder as the exe itself.  Once it completes, you should have a new file named “in.pdf” in the folder as well
+These files are the bare minimum you need in order to use easyPDF Cloud (www.easypdfcloud.com), and seeing easyPDF Cloud in action is as simple as double clicking “EasyPdfCloudSample.exe”.  If you do so, a Console should pop up and quickly run through the steps of a standard conversion.  By default, the application will target the “in.docx” file in the same folder as the exe itself.  Once it completes, you should have a new file named “in.pdf” in the folder as well
 This is the simplest way to use this Sample, however it always targets in.docx, and nothing else, and this file name is hard coded into the Sample itself.  What if you want to use it to convert a different file?  That is what the _RunMe.bat file is for. 
 Because this Sample is a simple Console Application, it can be run with Input Variables passed at launch.  This can be done from the Command Prompt, or via a bat file like the one included.  Bat files can be opened by a simple text editor like Notepad, and if you open _RunMe.bat, you should see the following;
  
@@ -22,3 +26,5 @@ Fortunately, the Variables are located at the very top of the Source Code.
 To change the application to target a different User Account, all you need to do is change these two variables.  Likewise, here you can modify the default Workflow ID.
 Once you have finished making your changes, compile the new Console Application, and get the new Executable from the Bin Folder. 
 And that’s how you use the easyPDF Cloud .Net Sample.
+
+Read more about PDF conversion and generation on www.easypdfcloud.com
