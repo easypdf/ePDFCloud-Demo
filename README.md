@@ -1,5 +1,4 @@
-# New Document
-Generate and convert files to PDF online with easy PDF Cloud
+# Generate and convert files to PDF online with easy PDF Cloud
 
 The easyPDF Cloud (www.easypdfcloud.com) is a cloud-based platform that allows PDF generation, conversion and automation. This easy-to-use tool eliminates the need for separate APIs for different file formats and works with Word, Excel, PowerPoint, HTML, and images. The easyPDF Cloud API can be called from any language such as .NET, Java and PHP deployed on multiple platforms like Windows, Mac OS, Linux, iOS and Android.
 
@@ -7,7 +6,7 @@ This tutorial is here to guide you through deploying and using the easyPDF Cloud
 The first step is to simply choose a location on your machine, and extract the sample to that location.  Once the sample is extracted, you should have a folder that looks like this.
  
  
- This folder contains a Pre-Compiled sample application, and the original C# code to allow you to modify it to suit your unique needs.  
+This folder contains a Pre-Compiled sample application, and the original C# code to allow you to modify it to suit your unique needs.  
 Running the Sample Application:
 We’ll start with the Pre-Compiled Application, so Open the “Sample” folder to find the files shown below;
  
